@@ -8,8 +8,6 @@ Hello there! I'm Anxhelo, a passionate web designer enthusiast. This is my GitHu
 
 ### Portfolio
 
-[![Portfolio]]([link_to_portfolio_repo](https://xangeloxx.github.io/Anxhelos-hoard/Portofolio/index.html))
-
 In this repository, you'll find my personal portfolio project. It serves as a hub for showcasing my skills, projects, and a glimpse into who I am. Feel free to explore and get in touch!
 
 ### Weather App
